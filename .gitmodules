@@ -1,6 +1,7 @@
 [submodule "api"]
 	path = api
-	url = git@github.com:getlago/lago-api.git
+	url = https://github.com/LerianStudio/lago-api.git
+	branch = lerian/premium-unlock
 [submodule "front"]
 	path = front
 	url = git@github.com:getlago/lago-front.git
