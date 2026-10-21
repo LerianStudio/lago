@@ -2,6 +2,8 @@ module github.com/getlago/lago/events-processor
 
 go 1.25.0
 
+toolchain go1.26.10
+
 require (
 	github.com/DATA-DOG/go-sqlmock v1.5.2
 	github.com/DataDog/dd-trace-go/v2 v2.8.1
